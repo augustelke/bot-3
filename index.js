@@ -18,8 +18,8 @@ InteractionType
 
 const fs = require("fs");
 
-const TOKEN = "TON_TOKEN";
-const CLIENT_ID = "TON_CLIENT_ID";
+const TOKEN = "MTUxNjU0NjA4ODkzOTgxOTA2OA.GojRvV.Z4UC2BVZIpX1h_Y_r6LctePWvH2nRlEA7ZIyZM";
+const CLIENT_ID = "1516546088939819068";
 
 const REVIEW_CHANNEL = "1502721949376188478";
 
